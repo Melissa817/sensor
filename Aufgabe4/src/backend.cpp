@@ -5,7 +5,7 @@
 
 
 //Hier bitte die gegebene URL eintragen:
-String url = "https://sensorik.it.hs-heilbronn.de/api/mqC";
+String url = "https://f80113cb-e3ef-43a3-b893-c83c3fda2b37.ma.bw-cloud-instance.org/api/admin/";
 
 void Backend::connectToWifi(char *ssid, char *password)
 {
